@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=okeresamuel&color=green)
+![](https://komarev.com/ghpvc/?username=okeresamuel&color=blue)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okeresamuel)](https://github.com/okeresamuel/github-readme-stats)
  
