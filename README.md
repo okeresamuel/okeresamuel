@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **The MERN stack**
 
-- 📫 How to reach me **https://www.linkedin.com/in/okere-samuel-0627a5232/**
+- 📫 How to reach me **okeresamuel360@gmail.com**
 
 - ⚡ Fun fact **Enjoy playing the bass Guitar :)**
 
