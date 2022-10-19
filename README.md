@@ -10,9 +10,10 @@
 <h1 align="center">Hi 👋, I'm Okere samuel</h1>
 <h3 align="center">A passionate DEVELOPER from Port-Harcourt Nigeria</h3>
 
-- 👨‍💻 All of my projects are available at [samwebprofile.herokuapp.com](samwebprofile.herokuapp.com)
 
 - 💬 Ask me about **The MERN stack**
+
+- 👨‍💻 All of my projects are available at [samwebprofile.herokuapp.com](samwebprofile.herokuapp.com)
 
 - 📫 How to reach me **okeresamuel360@gmail.com**
 
