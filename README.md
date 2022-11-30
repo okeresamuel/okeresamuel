@@ -13,7 +13,7 @@
 
 - 💬 Ask me about  **The MERN stack**
 
-- 👨‍💻 All of my projects are available at [samwebprofile.herokuapp.com](samwebprofile.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://samwebprofile.herokuapp.com]
 
 - 📫 How to reach me **okeresamuel360@gmail.com**
 
