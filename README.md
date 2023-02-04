@@ -33,6 +33,5 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a> 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40px" height="40px"></a> 
  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="mysql" width="40px" height="40px"></a>
-</p>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="mysql" width="70px" height="70px"></a>
+</p><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="mysql" width="70px" height="70px"></a>
 </p>
