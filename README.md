@@ -24,9 +24,11 @@
 <a href="https://codepen.io/https://codepen.io/okere-samuel-codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/okere-samuel-codepen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/okere-samuel-0627a5232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="30" width="40" /></a>
 </p>
+<a href="https://www.instagram.com/okeresamuel360/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Read Articles:</h3>
-<a href="https://medium.com/@okeresamuel360" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBSesxdbv6BYNY20yEHsSGcKk-MqtLN799_ZuRDs&s" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="30" width="40" /></a>
+<a href="https://medium.com/@okeresamuel360" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBSesxdbv6BYNY20yEHsSGcKk-MqtLN799_ZuRDs&s" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
