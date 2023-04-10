@@ -46,10 +46,9 @@
 <a href="#react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="#redux">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux" width="40" height="40"/> </a> 
 
-
 <a href="#sass">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="#slack">  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/></a> 
 <a href="#vs_code"> <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
-<a href="#mysql">  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40px" height="40px"></a> 
+<a href="#mysql">  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40px" height="40px" ></a> 
 <a href="#docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40px" height="40px"></a>
-<a href="#redis">  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="70px" height="70px"></a>
+<a href="#redis">  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="40px" height="40px" margin="4px"></a>
