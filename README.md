@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Okere samuel</h1>
-<h3 align="center">A  DEVELOPER from Port-Harcourt <span style:"color:red">Nigeria<span></h3>
+<h3 align="center">A  Developer from Port-harcourt Nigeria</h3>
 
 - 💬 Ask me about  **The MERN stack**
 
