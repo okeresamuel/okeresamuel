@@ -27,9 +27,7 @@
 <a href="https://www.instagram.com/okeresamuel360/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="30" width="30" margin="5px" /></a>
 
 
-<h3 align="left">Read Articles:</h3>
-
-##### latest was on Aliases
+<h3 align="left">Read Articles:</h3> latest was on Aliases
 
 <a href="https://medium.com/@okeresamuel360" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBSesxdbv6BYNY20yEHsSGcKk-MqtLN799_ZuRDs&s" alt="https://www.linkedin.com/in/okere-samuel-0627a5232/" height="40" width="40" /></a>
 </p>
