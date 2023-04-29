@@ -55,4 +55,6 @@
 <a href="#docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40px" height="40px"></a>
 <a href="#redis">  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis"  width="40px" height="40px" margin="4px"></a>
 <a href="#tailwindcss">  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40px" height="40px" margin="4px"></a>
- 
+<a href="#React_native">  <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="React native" width="40px" height="40px" margin="4px"></a>
+
+
