@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okeresamuel&show_icons=true&theme=blue)
 
 
-<h1 align="center">Hi 👋, I'm Okere samuel</h1>
+<h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A  Developer from Port-harcourt Nigeria</h3>
 
 - 💬 Ask me about  **The MERN stack**
