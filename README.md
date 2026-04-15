@@ -5,15 +5,8 @@
 ### A Developer from Port-Harcourt, Nigeria
 
 ---
-
-## 🚀 About Me:
-
----
-
-🔭 I'm currently working on **MERN Stack Projects**
-👯 I'm looking to collaborate on **projects that interest me**
-💬 Ask me about **The MERN Stack**
-🎸 Fun fact: **I enjoy playing the Bass Guitar**
+# 💫 About Me:
+🔭 I'm currently working on mern stack Projects<br>👯 I’m looking to collaborate on projects that interest me.<br>💬 Ask me about Software Development<br>⚡ Fun fact I enjoy playing the Bass Guitar
 
 ---
 
