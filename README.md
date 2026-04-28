@@ -19,6 +19,41 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okeresamuel360/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/okeresamuel66?s=09)
 
+<table>
+  <tr>
+    <td>
+      <a href="https://codepen.io/okere-samuel-codepen">
+        <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+      </a>
+    </td>
+    <td>okere-samuel-codepen</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/okeresamuel/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>okeresamuel</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/okeresamuel360/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td>okeresamuel360</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://x.com/okeresamuel66?s=09">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+    <td>okeresamuel66</td>
+  </tr>
+</table>
+
 ---
 
 ## 💻 Tech Stack:
